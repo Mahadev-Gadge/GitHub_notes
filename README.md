@@ -17,4 +17,4 @@ From August 13, 2021, GitHub is no longer accepting account passwords when authe
 Settings-->developer settings--> Personal access tokens-->Fine-Grained tokens-->Generate new token(given GitHub password)-->fill manditory fields-->Generate token
 Token expiry date can be choosen as per user convenience. 
 
-Few most used commands from cheatsheet will be explained soon.
+Few most used Git commands from cheatsheet will be explained soon.
